@@ -1,0 +1,20 @@
+body {
+    background-color: #2f2f2f;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: crimson;
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
